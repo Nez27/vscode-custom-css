@@ -3,6 +3,15 @@
   --gradient-dir2: 90deg;
   --gradient-dir3: -45deg;
 }
+
+.mtk3.mtki {
+  background-image: linear-gradient(
+    90.2deg,
+    rgba(79, 255, 255, 1) 0.3%,
+    rgba(0, 213, 255, 1) 99.8%
+  );
+}
+
 .mtk10,
 .mtk15 {
   color: transparent;
@@ -44,7 +53,11 @@
 }
 .mtk3 {
   color: transparent;
-  background-image: linear-gradient(to right top, #c29ffd, #ffb4dc, #fef0d1);
+  background-image: linear-gradient(
+    109.6deg,
+    rgba(243, 136, 136, 1) 11.2%,
+    rgba(196, 157, 247, 1) 75.1%
+  );
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
